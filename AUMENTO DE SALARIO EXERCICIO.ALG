@@ -1,13 +1,13 @@
-Algoritmo "Aumento de sal·rio"
-/
+Algoritmo "Aumento de sal√°rio"
+
 Var
 salario: real
 
 Inicio
-escreval ("Digite o sal·rio: R$ ")
+escreval ("Digite o sal√°rio: R$ ")
 leia (salario)
 salario <- salario+0.3*salario
-escreval ("O valor total do sal·rio com o aumento de 30% È: R$ ", salario)
+escreval ("O valor total do sal√°rio com o aumento de 30% √©: R$ ", salario)
 
 
 
